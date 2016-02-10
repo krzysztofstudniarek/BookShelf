@@ -56,6 +56,7 @@
     <Content Include="app\static\app\content\site.css">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="app\templates\app\shelf.html" />
     <Content Include="app\templates\registration\logged_out.html">
       <SubType>Code</SubType>
     </Content>
